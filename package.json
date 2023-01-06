@@ -40,5 +40,8 @@
   "publishConfig": {
     "access": "public",
     "registry": "https://npm.pkg.github.com"
+  },
+  "resolutions": {
+    "glob-parent": "^6.0.1"
   }
 }
