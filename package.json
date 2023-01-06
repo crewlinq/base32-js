@@ -1,12 +1,18 @@
 {
   "name": "@crewlinq/base32",
   "description": "Base32 encoding and decoding",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "Isaac Wolkerstorfer <agnoster@gmail.com> (http://agnoster.net/)",
-  "homepage": "https://github.com/agnoster/base32-js",
+  "contributors": [
+    "Joris Tielen"
+  ],
+  "homepage": "https://github.com/crewlinq/base32-js#readme",
   "repository": {
     "type": "git",
-    "url": "git://github.com/agnoster/base32-js.git"
+    "url": "git://github.com/crewlinq/base32-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/crewlinq/base32-js/issues"
   },
   "main": "./lib/base32",
   "bin": "./bin/base32.js",
